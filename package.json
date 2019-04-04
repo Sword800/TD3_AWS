@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "An example Node application with Nunjucks templates",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
